@@ -5,7 +5,7 @@ function Gallery() {
     "/gallery/img1.jpg",
     "/gallery/img2.jpg",
     "/gallery/img3.jpg",
-    "/gallery/img4.jpg",
+    
   ];
 
   return (
