@@ -12,7 +12,7 @@ function Navbar() {
       <div className="space-x-6">
         <a href="#about" className="hover:text-blue-300">About</a>
         <a href="#skills" className="hover:text-blue-300">Skills</a>
-        <a href="#gallery" className="hover:text-blue-300">Gallery</a>
+        <a href="#gallery" className="hover:text-blue-300">Projects</a>
         <a href="#contact" className="hover:text-blue-300">Contact</a>
       </div>
     </motion.nav>
