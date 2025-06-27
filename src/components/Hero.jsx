@@ -32,7 +32,7 @@ const Hero = () => (
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: 0.4, duration: 0.8 }}
     >
-      Student | Aspiring Engineer | Web Developer | Dreaming Big!
+      Student | Aspiring Engineer | Web Developer
     </motion.p>
     <a
       href="#contact"
