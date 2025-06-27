@@ -18,7 +18,7 @@ function Contact() {
           whileInView={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.7 }}
         >
-          I'm always excited to connect! Feel free to reach out via email OR whatsapp me on '+919026779213'
+          I'm always excited to connect! Feel free to reach out via email. 
         </motion.p>
         <a 
           href="mailto:mriduletwppu@gmail.com" 
