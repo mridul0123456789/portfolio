@@ -3,7 +3,6 @@ import { motion } from "framer-motion";
 function Gallery() {
   const images = [
     "/gallery/img1.jpg",
-    "/gallery/img2.jpg",
     "/gallery/img3.jpg",
     
   ];
